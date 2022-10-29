@@ -1,4 +1,4 @@
 <?php
-require "config.php";
-
-echo "V_" . version::MAJOR . "." . version::MINOR . "." . version::SEQUENCE;
+require "Config.php";
+$a = 3;
+echo Config::getVersion();
