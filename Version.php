@@ -1,9 +1,10 @@
-<?php
+<?php 
 
 class Version {
-    const MAJOR = 1;
-    const MINOR = 0;
-    const SEQUENCE = 0;
+    
+    const MAJOR = 0;
+    const MINOR = 3;
+    const SEQUENCE = 7;
 
     private $major;
     private $minor;
