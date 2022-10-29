@@ -23,4 +23,4 @@ PHP Demo project for Gitflow testing
 
 [Unreleased]:https://github.com/dysback/GitFlow/compare/release...master
 [1.0.1]:https://github.com/dysback/GitFlow/compare/V1.0...V1.0.1
-[1,0]:https://github.com/dysback/GitFlow/tree/V1.0
+[1.0]:https://github.com/dysback/GitFlow/tree/V1.0
