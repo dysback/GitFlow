@@ -5,6 +5,12 @@ PHP Demo project for Gitflow testing
 
 ## [Unreleased]
 
+## [1.0.6] - 2022-10-30
+
+### Changed
+CHANGELOG
+README
+
 ## [1.0.5] - 2022-10-30
 
 ### Changed
@@ -49,6 +55,7 @@ README.md
 ### Security
 
 [Unreleased]:https://github.com/dysback/GitFlow/compare/release...master
+[1.0.6]:https://github.com/dysback/GitFlow/compare/V1.0.5...V1.0.6
 [1.0.5]:https://github.com/dysback/GitFlow/compare/V1.0.4...V1.0.5
 [1.0.4]:https://github.com/dysback/GitFlow/compare/V1.0.3...V1.0.4
 [1.0.3]:https://github.com/dysback/GitFlow/compare/V1.0.2...V1.0.3
