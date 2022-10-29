@@ -1,6 +1,6 @@
 # Changelog
 
-** PHP Version **
+**PHP Version**
 PHP Demo project for Gitflow testing
 
 ## [Unreleased]
