@@ -5,6 +5,16 @@ PHP Demo project for Gitflow testing
 
 ## [Unreleased]
 
+## [1.0.3] - 2022-10-30
+
+### Added
+Bee Framework
+Logger
+
+### Changed
+README.md
+CHANGELOG.md
+
 ## [1.0.2] - 2022-10-29
 ### Added
 CHANHELOG.md
