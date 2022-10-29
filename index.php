@@ -1,4 +1,5 @@
 <?php
-require "Config.php";
-$a = 3;
+require "autoload.php";
+spl_autoload_register("autoload");
+
 echo Config::getVersion();

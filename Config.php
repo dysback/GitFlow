@@ -1,7 +1,5 @@
 <?php
 
-require("Version.php");
-
 abstract class Config {
     private static Version $version;
 
@@ -27,5 +25,4 @@ abstract class Config {
             default:
         }
     }
-
 }
