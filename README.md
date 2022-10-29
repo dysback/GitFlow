@@ -1,13 +1,10 @@
 # GitFlow
 Git webflow testing and experimenting
 
-## Version 1.0 RC1 changes
-- Implemented Config class
-- Implemented Version Class
-- Implemented Autoload function
-
-## Version 1.0 RC2 changes
-- Improved readme file
+## Version 1.0 
+- Config class
+- Version Class
+- Autoload function
 
 Author dysback
 damir.zelenika@gmail.com

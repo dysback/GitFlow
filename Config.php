@@ -13,14 +13,6 @@ abstract class Config {
 
     public function __get($name){
         switch($name) {
-            case "version":
-                if(!Config::$version)
-                {
-                    $version = new Version(0, 3, 6);
-                }
-                
-                return $version;
-            break;
             
             default:
         }

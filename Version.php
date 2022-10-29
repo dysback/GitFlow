@@ -2,9 +2,9 @@
 
 class Version {
     
-    const MAJOR = 0;
-    const MINOR = 3;
-    const SEQUENCE = 10;
+    const MAJOR = 1;
+    const MINOR = 0;
+    const SEQUENCE = 2;
 
     private $major;
     private $minor;
