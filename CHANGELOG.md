@@ -6,8 +6,12 @@ PHP Demo project for Gitflow testing
 ## [Unreleased]
 
 ## [1.0.2] - 2022-10-29
+### Added
+CHANHELOG.md
 
 ## [1.0.1] - 2022-10-29
+### CHANGED
+README.md
 
 ## [1.0] - 2022-10-29
 
