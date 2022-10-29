@@ -4,7 +4,7 @@ class Version {
     
     const MAJOR = 0;
     const MINOR = 3;
-    const SEQUENCE = 7;
+    const SEQUENCE = 8;
 
     private $major;
     private $minor;
