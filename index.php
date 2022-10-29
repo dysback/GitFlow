@@ -1,3 +1,4 @@
 <?php
+require "config.php";
 
-echo "V 0.1.2";
+echo "V_" . version::MAJOR . "." . version::MINOR . "." . version::SEQUENCE;
