@@ -1,10 +1,10 @@
-<?php 
+<?php namespace Bee2;
 
 class Version {
     
     const MAJOR = 1;
     const MINOR = 0;
-    const SEQUENCE = 2;
+    const SEQUENCE = 3;
 
     private $major;
     private $minor;
