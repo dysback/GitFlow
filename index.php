@@ -1,3 +1,4 @@
 <?php
 
-echo "V 0.1.2";
+const VER = "0.1.3";
+echo "V" . VER;
