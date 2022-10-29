@@ -1,4 +1,5 @@
 <?php
 require "config.php";
 
-echo "V_" . version::MAJOR . "." . version::MINOR . "." . version::SEQUENCE;
+$version = new Version(0,3,4);
+echo $version;
