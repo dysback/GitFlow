@@ -1,11 +1,11 @@
-#Changelog
+# Changelog
 
-***PHP Version***
+*** PHP Version ***
 PHP Demo project for Gitflow testing
 
-##[Unreleased]
+## [Unreleased]
 
-##[1.0] - 2022-10-29
+## [1.0] - 2022-10-29
 ### Added
 
 ### Changed
