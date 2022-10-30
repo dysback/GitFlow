@@ -1,5 +1,4 @@
 <?php
-require "autoload.php";
-spl_autoload_register("autoload");
+require "Bee2/Bee2.php";
 
-echo Config::getVersion();
+echo Bee2\Config::getVersion();

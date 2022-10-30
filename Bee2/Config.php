@@ -1,4 +1,5 @@
 <?php
+namespace Bee2;
 
 abstract class Config {
     private static Version $version;
