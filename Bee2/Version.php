@@ -1,16 +1,16 @@
 <?php namespace Bee2;
 
 class Version {
-    
+
     const MAJOR = 1;
     const MINOR = 0;
-    const SEQUENCE = 8;
+    const SEQUENCE = 9;
 
     private $major;
     private $minor;
     private $sequence;
 
-    public function __construct( $major = Version::MAJOR, 
+    public function __construct( $major = Version::MAJOR,
                         $minor = Version::MINOR,
                         $sequence = Version::SEQUENCE) {
 
